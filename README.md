@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Mistry</h1>
-<h3 align="center">A curious and ambitious individual with an undying passion for technology. Currently pursuing B.Sc in Artificial Intelligence & Machine Learning from Gujarat University (2020-2023) Organized, trustworthy, and capable of handling a number of competing priorities while remaining positive. Readiness to take on more responsibilities to further team goals respected self-starter adept at finding practical answers to any given problem.</h3>
+<h3 align="center">A curious and ambitious individual with an undying passion for technology. Currently pursuing MS in Artificial Intelligence from Illinois Institute of Technology (2024-) Organized, trustworthy, and capable of handling a number of competing priorities while remaining positive. Readiness to take on more responsibilities to further team goals respected self-starter adept at finding practical answers to any given problem.</h3>
 
 - 📫 How to reach me **mistrydev6@gmail.com**
 
