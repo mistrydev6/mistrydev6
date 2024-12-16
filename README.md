@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Mistry</h1>
 <h3 align="center">A curious and ambitious individual with an undying passion for technology. Currently pursuing MS in Artificial Intelligence from Illinois Institute of Technology (2024-) Organized, trustworthy, and capable of handling a number of competing priorities while remaining positive. Readiness to take on more responsibilities to further team goals respected self-starter adept at finding practical answers to any given problem.</h3>
 
-- 📫 How to reach me **mistrydev6@gmail.com**
+- 📫 How to reach me **dmistry3@hawk.iit.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
